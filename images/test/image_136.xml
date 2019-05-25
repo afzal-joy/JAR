@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image166_jar</folder>
+	<filename>image_136.jpg</filename>
+	<path>/home/afzal/JAR/image166_jar/image_136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>956</width>
+		<height>1668</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JAR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>10</ymin>
+			<xmax>948</xmax>
+			<ymax>1638</ymax>
+		</bndbox>
+	</object>
+</annotation>
